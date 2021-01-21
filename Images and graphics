@@ -1,1 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head><title>Come Enjoy With Us!</title>
+<style>
+body {
+  background-image: url('cruiseship.jpg');
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+</style>
+</head>
+<body>
+<h1 style="color:#D7DF01;text-align:center;"> Activities</h1>
+
+
+<table style="width:70%">
+ <caption>Day 1</caption>
+
+ <tr>
+   <th>Activity</th>
+   <th>Time</th>
+ </tr>
+ <tr> 
+    <td>Water Slides</td>
+    <td>10:00-10:30</td>
+ </tr>
+ <tr>
+    <td>Ziplining</td>
+	<td>11:00-12:00</td>
+ </tr>
+ <tr>
+    <td>Ice Skating</td>
+	<td>18:00-19:00</td>
+ </tr>
+ <tr>
+    <td>Play Floor</td>
+	<td>19:00-21:00</td>
+ </tr>
+ 
+ 
+  <tr>
+    <td> END OF PROGRAMME</td>
+	<td colspan="0">
+ </tr>
+
+
+<table style="width:70%">
+ <caption>Day 2</caption>
+
+<tr>
+   <th>Activity</th>
+   <th>Time</th>
+ </tr>
+ <tr> 
+    <td>Rock Climbing</td>
+    <td>09:00-10:00</td>
+ </tr>
+ <tr>
+    <td>Go Karts</td>
+	<td>10:00-12:00</td>
+ </tr>
+ <tr>
+    <td>Flow Rider Surfing</td>
+	<td>18:00-19:00</td>
+ </tr>
+ <tr>
+    <td>Rising Tide Bar</td>
+	<td>20:00-00:00</td>
+ </tr>
+ 
+ 
+  <tr>
+    <td> END OF PROGRAMME</td>
+	<td colspan="0">
+ </tr>
+
+
+<table style="width:70%">
+ <caption>Day 3</caption>
+
+<tr>
+   <th>Activity</th>
+   <th>Time</th>
+ </tr>
+ <tr> 
+    <td>Ocean Diving</td>
+    <td>09:00-11:00</td>
+ </tr>
+ <tr>
+    <td>Sky Diving In Cylinder</td>
+	<td>15:00-16:00</td>
+ </tr>
+ <tr>
+    <td>Casino</td>
+	<td>17:00-19:00</td>
+ </tr>
+ <tr>
+    <td>Broadway Show</td>
+	<td>19:00-21:00</td>
+ </tr>
+
+ <tr>
+    <td> END OF PROGRAMME</td>
+	<td colspan="0">
+ </tr>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+
 
